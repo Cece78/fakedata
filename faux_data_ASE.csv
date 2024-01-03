@@ -1,0 +1,101 @@
+,age_entree,duree,sexe,cjm,mna,mesure1,mesure2,mesure3,age_sortie
+0,18,1,F,False,True,AEMO,AEA,AEMO,19
+1,1,9,F,False,False,AEMO,Placement judiciaire,Accueil administratif,10
+2,10,2,M,True,True,AEMO,AEMO,AEMO,12
+3,2,7,M,False,True,AEA,AEA,Accueil administratif,9
+4,4,5,M,True,False,AEA,AEMO,AEA,9
+5,11,10,F,True,True,AEMO,Placement judiciaire,Placement judiciaire,21
+6,9,10,M,False,True,AEMO,AEA,Accueil administratif,19
+7,16,2,F,True,False,AEA,AEMO,AEMO,18
+8,12,3,M,True,True,Accueil administratif,AEMO,AEA,15
+9,15,7,F,False,True,Placement judiciaire,AEMO,AEA,22
+10,14,8,M,True,False,Placement judiciaire,Placement judiciaire,AEMO,22
+11,14,8,F,False,True,AEMO,AEMO,Accueil administratif,22
+12,5,6,M,True,True,Placement judiciaire,Accueil administratif,Placement judiciaire,11
+13,8,4,M,True,False,AEMO,Accueil administratif,AEMO,12
+14,8,9,F,False,False,AEA,AEA,Accueil administratif,17
+15,8,8,F,False,False,Accueil administratif,AEMO,AEA,16
+16,5,0,F,False,True,Accueil administratif,AEA,AEMO,5
+17,8,3,F,True,False,Accueil administratif,AEMO,AEA,11
+18,9,4,M,False,False,Placement judiciaire,Accueil administratif,Placement judiciaire,13
+19,7,4,F,False,False,AEA,AEA,AEA,11
+20,17,6,F,True,True,Placement judiciaire,AEA,Accueil administratif,23
+21,7,6,F,False,False,Accueil administratif,AEMO,Accueil administratif,13
+22,3,7,M,True,False,Accueil administratif,AEMO,Placement judiciaire,10
+23,0,4,F,False,True,Placement judiciaire,Placement judiciaire,AEMO,4
+24,5,0,M,False,True,AEMO,AEA,Accueil administratif,5
+25,4,9,F,True,False,Accueil administratif,Placement judiciaire,AEA,13
+26,11,7,M,False,False,AEMO,AEMO,AEA,18
+27,10,6,M,False,False,AEMO,Placement judiciaire,AEMO,16
+28,3,5,M,True,False,Accueil administratif,AEMO,Accueil administratif,8
+29,11,3,M,True,False,AEA,Accueil administratif,Placement judiciaire,14
+30,12,0,F,True,True,AEMO,Placement judiciaire,AEA,12
+31,4,6,F,True,False,AEMO,AEMO,AEMO,10
+32,15,9,F,False,False,AEMO,AEMO,AEA,24
+33,4,6,M,False,True,Placement judiciaire,Placement judiciaire,AEA,10
+34,8,9,F,True,True,AEMO,AEMO,Accueil administratif,17
+35,16,8,M,True,False,AEMO,AEA,AEA,24
+36,16,8,F,True,True,AEMO,Accueil administratif,AEMO,24
+37,16,10,F,False,True,Accueil administratif,Accueil administratif,Accueil administratif,26
+38,5,3,F,False,False,Accueil administratif,Accueil administratif,AEMO,8
+39,0,0,F,True,False,Placement judiciaire,AEMO,AEMO,0
+40,12,1,F,True,True,Accueil administratif,AEMO,AEMO,13
+41,15,5,F,True,True,Placement judiciaire,Placement judiciaire,Placement judiciaire,20
+42,15,3,M,True,True,Accueil administratif,Accueil administratif,AEMO,18
+43,7,7,F,True,False,Accueil administratif,Placement judiciaire,AEA,14
+44,12,2,F,False,False,Placement judiciaire,AEA,AEA,14
+45,9,7,M,True,False,Accueil administratif,AEA,Accueil administratif,16
+46,3,2,M,False,False,Placement judiciaire,AEMO,Accueil administratif,5
+47,2,10,F,False,False,AEA,Placement judiciaire,AEMO,12
+48,17,4,F,False,True,Placement judiciaire,AEA,Placement judiciaire,21
+49,5,1,F,False,False,Placement judiciaire,AEMO,AEA,6
+50,14,7,M,False,True,Accueil administratif,Accueil administratif,AEMO,21
+51,11,10,F,False,False,AEA,AEA,Placement judiciaire,21
+52,7,8,M,False,True,AEMO,AEA,AEMO,15
+53,5,4,F,False,False,AEMO,AEA,Accueil administratif,9
+54,12,7,M,False,False,AEA,AEA,Placement judiciaire,19
+55,4,6,F,True,False,Accueil administratif,AEA,AEA,10
+56,8,2,F,False,False,AEMO,Accueil administratif,AEMO,10
+57,9,5,F,True,True,Accueil administratif,Placement judiciaire,AEA,14
+58,18,7,F,True,True,Accueil administratif,Accueil administratif,Accueil administratif,25
+59,17,0,F,True,False,AEA,AEA,Placement judiciaire,17
+60,17,7,F,True,False,AEMO,AEMO,AEA,24
+61,17,2,M,False,True,AEMO,Accueil administratif,Accueil administratif,19
+62,17,8,M,False,False,AEMO,Accueil administratif,AEA,25
+63,6,7,F,False,False,AEMO,Accueil administratif,Accueil administratif,13
+64,2,2,F,False,False,AEA,AEA,Placement judiciaire,4
+65,18,8,M,False,False,AEMO,Placement judiciaire,AEMO,26
+66,1,3,M,False,True,AEA,AEMO,Placement judiciaire,4
+67,7,6,M,True,False,AEA,AEA,Placement judiciaire,13
+68,3,10,F,False,True,Accueil administratif,AEA,AEA,13
+69,0,0,M,True,True,Accueil administratif,AEA,Placement judiciaire,0
+70,9,5,F,False,True,AEA,Placement judiciaire,Accueil administratif,14
+71,14,0,M,True,True,Placement judiciaire,Accueil administratif,Accueil administratif,14
+72,5,8,M,False,True,AEA,Placement judiciaire,AEMO,13
+73,12,4,M,True,True,Placement judiciaire,AEMO,AEMO,16
+74,18,9,M,False,True,Accueil administratif,AEA,AEA,27
+75,8,4,F,False,False,Placement judiciaire,AEA,Placement judiciaire,12
+76,13,1,F,True,False,Placement judiciaire,Accueil administratif,AEMO,14
+77,13,3,F,True,True,Placement judiciaire,AEMO,Placement judiciaire,16
+78,3,8,F,False,True,AEA,Accueil administratif,AEMO,11
+79,8,6,M,True,False,AEMO,Placement judiciaire,Placement judiciaire,14
+80,4,10,M,True,True,AEMO,AEMO,AEMO,14
+81,16,5,M,False,True,AEMO,AEMO,AEA,21
+82,1,10,M,False,False,Placement judiciaire,Placement judiciaire,Placement judiciaire,11
+83,14,2,F,True,True,AEMO,Accueil administratif,AEMO,16
+84,13,4,F,False,True,Accueil administratif,Placement judiciaire,AEA,17
+85,10,6,F,False,False,AEA,AEA,Placement judiciaire,16
+86,0,10,F,False,True,AEMO,AEMO,Placement judiciaire,10
+87,1,3,M,True,True,Accueil administratif,AEA,Accueil administratif,4
+88,3,10,M,True,False,Accueil administratif,Accueil administratif,AEMO,13
+89,4,1,F,True,False,Placement judiciaire,Placement judiciaire,Accueil administratif,5
+90,6,9,F,False,True,AEMO,Accueil administratif,AEA,15
+91,14,2,M,False,True,AEA,AEMO,Placement judiciaire,16
+92,4,10,F,True,False,Placement judiciaire,AEA,AEA,14
+93,17,6,F,True,False,AEMO,Accueil administratif,AEA,23
+94,14,1,F,True,True,AEMO,Accueil administratif,AEMO,15
+95,14,10,M,True,False,AEA,Placement judiciaire,Accueil administratif,24
+96,17,0,M,False,False,AEMO,Accueil administratif,Accueil administratif,17
+97,3,4,M,True,False,Accueil administratif,AEMO,Accueil administratif,7
+98,7,0,F,False,True,Placement judiciaire,Placement judiciaire,Accueil administratif,7
+99,13,7,M,True,True,Placement judiciaire,Accueil administratif,Accueil administratif,20
